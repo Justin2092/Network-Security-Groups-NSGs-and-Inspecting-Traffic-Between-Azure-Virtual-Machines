@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Create Microsoft Azure subscription
 - Create two virtual machines(VM) in Azure, with one VM running Windows 10 and the other running Ubuntu/Linux 
 - Download Wireshark (Protocol Analyzer)
-- Step 4
+- Open Windows PowerShell to inspect traffic between virtual machines
 
 <h2>Actions and Observations</h2>
 
