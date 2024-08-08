@@ -6,9 +6,8 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
@@ -36,7 +35,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img src="https://imgur.com/bpheUCG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The image above is an example of two virtual machines(VM) that have been created in Microsoft Azure. Notice VM1 is running Windows and VM2 is running Ubuntu/Linux    
+The image above is an example of two virtual machines(VM) that have been created in Microsoft Azure. Notice VM1 is running Windows and VM2 is running Ubuntu/Linux.    
 </p>
 <br />
 
@@ -44,7 +43,7 @@ The image above is an example of two virtual machines(VM) that have been created
 <img src="https://imgur.com/DYBgJkO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The image above is using WireShark to monitor a filtered Internet Control Message Protocol(ICMP) ping between VM1(10.0.05) and VM2(10.0.04).
+The image above is using WireShark to monitor a filtered Internet Control Message Protocol(ICMP) ping between VM1(10.0.05) and VM2(10.0.04). Windows PowerShell was used to ping between the two virtual machines.
 </p>
 <br />
 
