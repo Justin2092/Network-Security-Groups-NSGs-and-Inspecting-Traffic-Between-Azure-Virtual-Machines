@@ -44,7 +44,7 @@ The image above is an example of two virtual machines(VM) that have been created
 <img src="https://imgur.com/DYBgJkO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The image above is using WireShark to monitor a filtered Internet Control Message Protocol(ICMP) ping between VM1(10.0.05) and VM2(10.0.04).
 </p>
 <br />
 
