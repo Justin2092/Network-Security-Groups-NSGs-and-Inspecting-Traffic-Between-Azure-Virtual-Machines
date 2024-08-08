@@ -51,7 +51,7 @@ The image above is using WireShark to monitor a filtered Internet Control Messag
 <img src="https://imgur.com/hpQ8Peg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the image above an inbound security rule is being added to deny any incoming ICMP ping to VM2. Essentinally a firewall is being created in Azure for VM2, to deny incoming ping.
+In the image above an inbound security rule is being added to deny any incoming ICMP ping to VM2. Essentinally a firewall is being created in Azure for the VM2 network security group, to deny incoming ping.
 </p>
 <br />
 
